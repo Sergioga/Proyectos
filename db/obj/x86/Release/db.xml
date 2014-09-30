@@ -1,0 +1,861 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+db
+</name>
+</assembly>
+<members>
+<member name="P:db.My.Resources.strings_en.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.accDetStr">
+	<summary>
+  Looks up a localized string similar to Account Details:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.actStr">
+	<summary>
+  Looks up a localized string similar to Actual Values.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.addressStr">
+	<summary>
+  Looks up a localized string similar to Address:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.addUsers">
+	<summary>
+  Looks up a localized string similar to Add Users.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.btnBackStr">
+	<summary>
+  Looks up a localized string similar to Back.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.btnChanStr">
+	<summary>
+  Looks up a localized string similar to Change.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.btnClose">
+	<summary>
+  Looks up a localized string similar to Close.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.btnLogInStr">
+	<summary>
+  Looks up a localized string similar to Login.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.btnModPro">
+	<summary>
+  Looks up a localized string similar to Modify profile.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.btnSaveChanStr">
+	<summary>
+  Looks up a localized string similar to Save changes.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.btnSaveStr">
+	<summary>
+  Looks up a localized string similar to Save.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.btnSelImg">
+	<summary>
+  Looks up a localized string similar to Select Image:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.btnSubChgStr">
+	<summary>
+  Looks up a localized string similar to Submit Changes.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.chgPass">
+	<summary>
+  Looks up a localized string similar to Change Password.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.chgPassFormStr">
+	<summary>
+  Looks up a localized string similar to Change password.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.chgPassStr">
+	<summary>
+  Looks up a localized string similar to You need to set a new password for this account.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.cityStr">
+	<summary>
+  Looks up a localized string similar to City:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.contInfStr">
+	<summary>
+  Looks up a localized string similar to Contact Information.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.counStr">
+	<summary>
+  Looks up a localized string similar to Country:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.currPassStr">
+	<summary>
+  Looks up a localized string similar to Current password.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.dateOBStr">
+	<summary>
+  Looks up a localized string similar to Date of Birth:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.dbChkBoxStr">
+	<summary>
+  Looks up a localized string similar to Show advanced options.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.dbPassStr">
+	<summary>
+  Looks up a localized string similar to Password:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.dbSettStr">
+	<summary>
+  Looks up a localized string similar to Database Settings.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.dbStatusStr">
+	<summary>
+  Looks up a localized string similar to Database connection status.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.dbStr">
+	<summary>
+  Looks up a localized string similar to Database:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.dbUserStr">
+	<summary>
+  Looks up a localized string similar to Database user:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.defUserPic">
+	<summary>
+  Looks up a localized string similar to You can't change the default user profile picture.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.defUserPro">
+	<summary>
+  Looks up a localized string similar to You can't change the default user profile.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.diagFilter">
+	<summary>
+  Looks up a localized string similar to Image files (*.jpg, *.jpeg, *.jpe, *.jfif, *.png)|*.jpg; *.jpeg; *.jpe; *.jfif; *.png|All files (*.*) | *.*.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.diagTitle">
+	<summary>
+  Looks up a localized string similar to Select Image.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.exitStr">
+	<summary>
+  Looks up a localized string similar to Exit.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.idColStr">
+	<summary>
+  Looks up a localized string similar to ID.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.imgSuccStr">
+	<summary>
+  Looks up a localized string similar to Image saved successfully.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.instanceNameStr">
+	<summary>
+  Looks up a localized string similar to Instance name:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.joinStr">
+	<summary>
+  Looks up a localized string similar to Joined on:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.logFormStr">
+	<summary>
+  Looks up a localized string similar to Login.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.loginNameColStr">
+	<summary>
+  Looks up a localized string similar to Username.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.logOut">
+	<summary>
+  Looks up a localized string similar to Log out.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.lvl1Str">
+	<summary>
+  Looks up a localized string similar to Level 1 - Read Only.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.lvl2Str">
+	<summary>
+  Looks up a localized string similar to Level 2 - Write.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.lvl3Str">
+	<summary>
+  Looks up a localized string similar to Level 3 - Add Tables.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.lvl4Str">
+	<summary>
+  Looks up a localized string similar to Level 4 - User Management.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.lvl5Str">
+	<summary>
+  Looks up a localized string similar to Level 5 - Administrator.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.lvlColStr">
+	<summary>
+  Looks up a localized string similar to Level.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.lvlGrpStr">
+	<summary>
+  Looks up a localized string similar to Levels.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.manUsers">
+	<summary>
+  Looks up a localized string similar to Manage Users.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.menuFormStr">
+	<summary>
+  Looks up a localized string similar to Menu.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.mobPhoneStr">
+	<summary>
+  Looks up a localized string similar to Mobile:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.modProFormStr">
+	<summary>
+  Looks up a localized string similar to Modify Profile.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.nameIPstr">
+	<summary>
+  Looks up a localized string similar to Computer name or IP:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.nameStr">
+	<summary>
+  Looks up a localized string similar to Name:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.newPassStr">
+	<summary>
+  Looks up a localized string similar to New password.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.newStr">
+	<summary>
+  Looks up a localized string similar to New Values.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.pass">
+	<summary>
+  Looks up a localized string similar to Password.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.passColStr">
+	<summary>
+  Looks up a localized string similar to Password.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.passLenghStr">
+	<summary>
+  Looks up a localized string similar to The password must have between 8 and 32 characters.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.passRecQStr">
+	<summary>
+  Looks up a localized string similar to Password Recovery Questions.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.passSuccStr">
+	<summary>
+  Looks up a localized string similar to Password successfully changed.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.phoneStr">
+	<summary>
+  Looks up a localized string similar to Phone:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.pro">
+	<summary>
+  Looks up a localized string similar to Profile.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.proFormStr">
+	<summary>
+  Looks up a localized string similar to Profile.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.proImgFormStr">
+	<summary>
+  Looks up a localized string similar to Change profile image.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.reNewPassStr">
+	<summary>
+  Looks up a localized string similar to Re-type new password.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.secAStr">
+	<summary>
+  Looks up a localized string similar to Secret Awnser:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.secQStr">
+	<summary>
+  Looks up a localized string similar to Secret Question:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.selImgStr">
+	<summary>
+  Looks up a localized string similar to Select and image first.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.settStr">
+	<summary>
+  Looks up a localized string similar to Settings.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.showContInfStr">
+	<summary>
+  Looks up a localized string similar to Show Contact Information.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.showPassChkStr">
+	<summary>
+  Looks up a localized string similar to Show passwords.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.showPassStr">
+	<summary>
+  Looks up a localized string similar to Show password recovery options.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.showUserLvlStr">
+	<summary>
+  Looks up a localized string similar to Show user level.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.startStr">
+	<summary>
+  Looks up a localized string similar to Start the app.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.surnameColStr">
+	<summary>
+  Looks up a localized string similar to Surname.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.surnameStr">
+	<summary>
+  Looks up a localized string similar to Surname:.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.userManFormStr">
+	<summary>
+  Looks up a localized string similar to User Management.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.userName">
+	<summary>
+  Looks up a localized string similar to Username.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.userNameColStr">
+	<summary>
+  Looks up a localized string similar to Name.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.wrgPass">
+	<summary>
+  Looks up a localized string similar to Wrong username or password.
+</summary>
+</member><member name="P:db.My.Resources.strings_en.wrgPassStr">
+	<summary>
+  Looks up a localized string similar to Wrong password.
+</summary>
+</member><member name="T:db.My.Resources.strings_en">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.accDetStr">
+	<summary>
+  Looks up a localized string similar to Account Details:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.actStr">
+	<summary>
+  Looks up a localized string similar to Actual Values.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.addressStr">
+	<summary>
+  Looks up a localized string similar to Address:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.addUsers">
+	<summary>
+  Looks up a localized string similar to Add Users.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.btnBackStr">
+	<summary>
+  Looks up a localized string similar to Back.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.btnChanStr">
+	<summary>
+  Looks up a localized string similar to Change.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.btnClose">
+	<summary>
+  Looks up a localized string similar to Close.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.btnLogInStr">
+	<summary>
+  Looks up a localized string similar to Login.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.btnModPro">
+	<summary>
+  Looks up a localized string similar to Modify profile.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.btnSaveChanStr">
+	<summary>
+  Looks up a localized string similar to Save changes.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.btnSaveStr">
+	<summary>
+  Looks up a localized string similar to Save.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.btnSelImg">
+	<summary>
+  Looks up a localized string similar to Select Image:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.btnSubChgStr">
+	<summary>
+  Looks up a localized string similar to Submit Changes.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.chgPass">
+	<summary>
+  Looks up a localized string similar to Change Password.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.chgPassFormStr">
+	<summary>
+  Looks up a localized string similar to Change password.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.chgPassStr">
+	<summary>
+  Looks up a localized string similar to You need to set a new password for this account.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.cityStr">
+	<summary>
+  Looks up a localized string similar to City:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.contInfStr">
+	<summary>
+  Looks up a localized string similar to Contact Information.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.counStr">
+	<summary>
+  Looks up a localized string similar to Country:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.currPassStr">
+	<summary>
+  Looks up a localized string similar to Current password.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.dateOBStr">
+	<summary>
+  Looks up a localized string similar to Date of Birth:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.dbChkBoxStr">
+	<summary>
+  Looks up a localized string similar to Show advanced options.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.dbPassStr">
+	<summary>
+  Looks up a localized string similar to Password:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.dbSettStr">
+	<summary>
+  Looks up a localized string similar to Database Settings.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.dbStatusStr">
+	<summary>
+  Looks up a localized string similar to Estado de la con. a la BBDD.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.dbStr">
+	<summary>
+  Looks up a localized string similar to Database:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.dbUserStr">
+	<summary>
+  Looks up a localized string similar to Database user:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.defUserPic">
+	<summary>
+  Looks up a localized string similar to You can't change the default user profile picture.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.defUserPro">
+	<summary>
+  Looks up a localized string similar to You can't change the default user profile.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.diagFilter">
+	<summary>
+  Looks up a localized string similar to Image files (*.jpg, *.jpeg, *.jpe, *.jfif, *.png)|*.jpg; *.jpeg; *.jpe; *.jfif; *.png|All files (*.*) | *.*.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.diagTitle">
+	<summary>
+  Looks up a localized string similar to Select Image.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.exitStr">
+	<summary>
+  Looks up a localized string similar to Salir.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.idColStr">
+	<summary>
+  Looks up a localized string similar to ID.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.imgSuccStr">
+	<summary>
+  Looks up a localized string similar to Image saved successfully.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.instanceNameStr">
+	<summary>
+  Looks up a localized string similar to Instance name:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.joinStr">
+	<summary>
+  Looks up a localized string similar to Joined on:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.logFormStr">
+	<summary>
+  Looks up a localized string similar to Login.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.loginNameColStr">
+	<summary>
+  Looks up a localized string similar to Username.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.logOut">
+	<summary>
+  Looks up a localized string similar to Log out.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.lvl1Str">
+	<summary>
+  Looks up a localized string similar to Level 1 - Read Only.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.lvl2Str">
+	<summary>
+  Looks up a localized string similar to Level 2 - Write.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.lvl3Str">
+	<summary>
+  Looks up a localized string similar to Level 3 - Add Tables.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.lvl4Str">
+	<summary>
+  Looks up a localized string similar to Level 4 - User Management.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.lvl5Str">
+	<summary>
+  Looks up a localized string similar to Level 5 - Administrator.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.lvlColStr">
+	<summary>
+  Looks up a localized string similar to Level.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.lvlGrpStr">
+	<summary>
+  Looks up a localized string similar to Levels.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.manUsers">
+	<summary>
+  Looks up a localized string similar to Manage Users.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.menuFormStr">
+	<summary>
+  Looks up a localized string similar to Menu.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.mobPhoneStr">
+	<summary>
+  Looks up a localized string similar to Mobile:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.modProFormStr">
+	<summary>
+  Looks up a localized string similar to Modify Profile.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.nameIPstr">
+	<summary>
+  Looks up a localized string similar to Computer name or IP:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.nameStr">
+	<summary>
+  Looks up a localized string similar to Name:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.newPassStr">
+	<summary>
+  Looks up a localized string similar to New password.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.newStr">
+	<summary>
+  Looks up a localized string similar to New Values.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.pass">
+	<summary>
+  Looks up a localized string similar to Password.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.passColStr">
+	<summary>
+  Looks up a localized string similar to Password.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.passLenghStr">
+	<summary>
+  Looks up a localized string similar to The password must have between 8 and 32 characters.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.passRecQStr">
+	<summary>
+  Looks up a localized string similar to Password Recovery Questions.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.passSuccStr">
+	<summary>
+  Looks up a localized string similar to Password successfully changed.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.phoneStr">
+	<summary>
+  Looks up a localized string similar to Phone:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.pro">
+	<summary>
+  Looks up a localized string similar to Profile.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.proFormStr">
+	<summary>
+  Looks up a localized string similar to Profile.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.proImgFormStr">
+	<summary>
+  Looks up a localized string similar to Change profile image.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.reNewPassStr">
+	<summary>
+  Looks up a localized string similar to Re-type new password.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.secAStr">
+	<summary>
+  Looks up a localized string similar to Secret Awnser:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.secQStr">
+	<summary>
+  Looks up a localized string similar to Secret Question:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.selImgStr">
+	<summary>
+  Looks up a localized string similar to Select and image first.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.settStr">
+	<summary>
+  Looks up a localized string similar to Ajustes.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.showContInfStr">
+	<summary>
+  Looks up a localized string similar to Show Contact Information.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.showPassChkStr">
+	<summary>
+  Looks up a localized string similar to Show passwords.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.showPassStr">
+	<summary>
+  Looks up a localized string similar to Show password recovery options.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.showUserLvlStr">
+	<summary>
+  Looks up a localized string similar to Show user level.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.startStr">
+	<summary>
+  Looks up a localized string similar to Iniciar la app.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.surnameColStr">
+	<summary>
+  Looks up a localized string similar to Surname.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.surnameStr">
+	<summary>
+  Looks up a localized string similar to Surname:.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.userManFormStr">
+	<summary>
+  Looks up a localized string similar to User Management.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.userName">
+	<summary>
+  Looks up a localized string similar to Username.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.userNameColStr">
+	<summary>
+  Looks up a localized string similar to Name.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.wrgPass">
+	<summary>
+  Looks up a localized string similar to Wrong username or password.
+</summary>
+</member><member name="P:db.My.Resources.strings_es.wrgPassStr">
+	<summary>
+  Looks up a localized string similar to Wrong password.
+</summary>
+</member><member name="T:db.My.Resources.strings_es">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:db.db1SQLDataSet.loginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:db.db1SQLDataSet.secretQDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:db.db1SQLDataSet.userProfilesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:db.db1SQLDataSet.userImagesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:db.db1SQLDataSet.loginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:db.db1SQLDataSet.secretQRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:db.db1SQLDataSet.userProfilesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:db.db1SQLDataSet.userImagesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:db.db1SQLDataSet.loginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:db.db1SQLDataSet.secretQRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:db.db1SQLDataSet.userProfilesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:db.db1SQLDataSet.userImagesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:db.db1SQLDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:db.db1SQLDataSetTableAdapters.loginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:db.db1SQLDataSetTableAdapters.secretQTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:db.db1SQLDataSetTableAdapters.userProfilesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:db.db1SQLDataSetTableAdapters.userImagesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:db.db1SQLDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(db.db1SQLDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:db.db1SQLDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(db.db1SQLDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:db.db1SQLDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(db.db1SQLDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:db.db1SQLDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:db.db1SQLDataSetTableAdapters.TableAdapterManager.UpdateAll(db.db1SQLDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:db.db1SQLDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:db.db1SQLDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:db.db1SQLDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:db.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:db.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:db.My.Resources.Resources.addUser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:db.My.Resources.Resources.chgpassword">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:db.My.Resources.Resources.en_UK">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:db.My.Resources.Resources.es_ES">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:db.My.Resources.Resources.exit_salida">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:db.My.Resources.Resources.exit_start">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:db.My.Resources.Resources.loginImg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:db.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:db.My.Resources.Resources.profile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:db.My.Resources.Resources.start1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:db.My.Resources.Resources.StructureSQL">
+	<summary>
+  Looks up a localized string similar to CREATE TABLE [dbo].[login]
+(
+	[userId]    INT            NOT NULL,
+    [userName]  NVARCHAR (255) NULL,
+    [surname]   NVARCHAR (255) NULL,
+    [passwd]    NVARCHAR (255) NULL,
+    [loginName] NVARCHAR (255) NULL,
+    [lvl]       SMALLINT       NULL,
+	CONSTRAINT [aaaaalogin_PK] PRIMARY KEY NONCLUSTERED ([userId] ASC)
+);
+
+CREATE NONCLUSTERED INDEX [loginuserName]
+    ON [dbo].[login]([userName] ASC);
+
+
+CREATE NONCLUSTERED INDEX [loginsurname]
+    ON [dbo].[login]([surname] ASC);
+
+
+CREATE  [rest of string was truncated]";.
+</summary>
+</member><member name="P:db.My.Resources.Resources.system">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:db.My.Resources.Resources.userdatabase">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:db.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

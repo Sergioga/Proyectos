@@ -1,0 +1,13 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\bin\Debug\EDAPP.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\bin\Debug\Pruebas.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\obj\Debug\a.Form1.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\obj\Debug\a.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\obj\Debug\Pruebas.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\obj\Debug\Pruebas.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\bin\Debug\EDAPP.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\bin\Debug\EDAPP.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Pruebas\Pruebas\obj\Debug\Pruebas.vbprojResolveAssemblyReference.cache

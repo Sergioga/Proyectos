@@ -1,0 +1,9 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QandA Generator\QandA Generator\bin\Debug\QandA Generator.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QandA Generator\QandA Generator\bin\Debug\QandA Generator.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QandA Generator\QandA Generator\bin\Debug\QandA Generator.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QandA Generator\QandA Generator\obj\Debug\QandA_Generator.Form1.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QandA Generator\QandA Generator\obj\Debug\QandA_Generator.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QandA Generator\QandA Generator\obj\Debug\QandA Generator.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QandA Generator\QandA Generator\obj\Debug\QandA Generator.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QandA Generator\QandA Generator\obj\Debug\QandA Generator.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QandA Generator\QandA Generator\obj\Debug\QandA Generator.pdb

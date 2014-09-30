@@ -1,0 +1,9 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QA Project (InfoJobs 29-06-2014)\QA Project (InfoJobs 29-06-2014)\bin\Debug\QA Project (InfoJobs 29-06-2014).exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QA Project (InfoJobs 29-06-2014)\QA Project (InfoJobs 29-06-2014)\bin\Debug\QA Project (InfoJobs 29-06-2014).pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QA Project (InfoJobs 29-06-2014)\QA Project (InfoJobs 29-06-2014)\bin\Debug\QA Project (InfoJobs 29-06-2014).xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QA Project (InfoJobs 29-06-2014)\QA Project (InfoJobs 29-06-2014)\obj\Debug\QA_Project__InfoJobs_29_06_2014_.Form1.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QA Project (InfoJobs 29-06-2014)\QA Project (InfoJobs 29-06-2014)\obj\Debug\QA_Project__InfoJobs_29_06_2014_.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QA Project (InfoJobs 29-06-2014)\QA Project (InfoJobs 29-06-2014)\obj\Debug\QA Project (InfoJobs 29-06-2014).vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QA Project (InfoJobs 29-06-2014)\QA Project (InfoJobs 29-06-2014)\obj\Debug\QA Project (InfoJobs 29-06-2014).exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QA Project (InfoJobs 29-06-2014)\QA Project (InfoJobs 29-06-2014)\obj\Debug\QA Project (InfoJobs 29-06-2014).xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\QA Project (InfoJobs 29-06-2014)\QA Project (InfoJobs 29-06-2014)\obj\Debug\QA Project (InfoJobs 29-06-2014).pdb

@@ -1,0 +1,9 @@
+C:\Users\Mephist\AppData\Local\Temporary Projects\Generator\bin\Debug\Generator.exe
+C:\Users\Mephist\AppData\Local\Temporary Projects\Generator\bin\Debug\Generator.pdb
+C:\Users\Mephist\AppData\Local\Temporary Projects\Generator\bin\Debug\Generator.xml
+C:\Users\Mephist\AppData\Local\Temporary Projects\Generator\obj\Debug\Generator.Form1.resources
+C:\Users\Mephist\AppData\Local\Temporary Projects\Generator\obj\Debug\Generator.Resources.resources
+C:\Users\Mephist\AppData\Local\Temporary Projects\Generator\obj\Debug\Generator.vbproj.GenerateResource.Cache
+C:\Users\Mephist\AppData\Local\Temporary Projects\Generator\obj\Debug\Generator.exe
+C:\Users\Mephist\AppData\Local\Temporary Projects\Generator\obj\Debug\Generator.xml
+C:\Users\Mephist\AppData\Local\Temporary Projects\Generator\obj\Debug\Generator.pdb

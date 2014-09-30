@@ -1,0 +1,234 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MySQLAPP
+</name>
+</assembly>
+<members>
+<member name="P:MySQL_APP.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources._1276863778_add_group">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources._exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources.chgpassword">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources.en_UK">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources.es_ES">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources.exit_start">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources.loginImg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources.profile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources.start1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources.system">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.Resources.userdatabase">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:MySQL_APP.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.badStr">
+	<summary>
+  Looks up a localized string similar to Wrong username or password.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.contStr">
+	<summary>
+  Looks up a localized string similar to Continue.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.creDBStr">
+	<summary>
+  Looks up a localized string similar to All operations finished succesfully!.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.dbPassStr">
+	<summary>
+  Looks up a localized string similar to DB Password:.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.dbServerStr">
+	<summary>
+  Looks up a localized string similar to Database server (name or IP):.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.dbUserStr">
+	<summary>
+  Looks up a localized string similar to DB User:.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.emptyStr">
+	<summary>
+  Looks up a localized string similar to You can't leave empty fields.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.exitStr">
+	<summary>
+  Looks up a localized string similar to Exit.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.lockStr">
+	<summary>
+  Looks up a localized string similar to Lock/unlock database settings.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.passStr">
+	<summary>
+  Looks up a localized string similar to Password:.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.saveBtnStr">
+	<summary>
+  Looks up a localized string similar to Commit changes.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.secStr">
+	<summary>
+  Looks up a localized string similar to You are about to delete ALL the existing data in the database and start again!. You need to provide XXX administrator password..
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.settingsStr">
+	<summary>
+  Looks up a localized string similar to Settings.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.startStr">
+	<summary>
+  Looks up a localized string similar to Start the app.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.userStr">
+	<summary>
+  Looks up a localized string similar to Username:.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.wrgDBStr">
+	<summary>
+  Looks up a localized string similar to There was an error during the operations....
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_en.wrgPass">
+	<summary>
+  Looks up a localized string similar to Wrong password.
+</summary>
+</member><member name="T:MySQL_APP.My.Resources.strings_en">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.badStr">
+	<summary>
+  Looks up a localized string similar to Usuario o contraseña incorrectos.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.contStr">
+	<summary>
+  Looks up a localized string similar to Continuar.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.creDBStr">
+	<summary>
+  Looks up a localized string similar to ¡Todas las operaciones han finalizado correctamente!.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.dbPassStr">
+	<summary>
+  Looks up a localized string similar to Contraseña BBDD:.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.dbServerStr">
+	<summary>
+  Looks up a localized string similar to Servidor BBDD (nombre o IP):.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.dbUserStr">
+	<summary>
+  Looks up a localized string similar to Usuario BBDD:.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.emptyStr">
+	<summary>
+  Looks up a localized string similar to No puedes dejar campos en blanco.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.exitStr">
+	<summary>
+  Looks up a localized string similar to Salir.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.lockStr">
+	<summary>
+  Looks up a localized string similar to Bloquear/Desbloquear ajustes.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.passStr">
+	<summary>
+  Looks up a localized string similar to Contraseña:.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.saveBtnStr">
+	<summary>
+  Looks up a localized string similar to Guardar cambios.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.secStr">
+	<summary>
+  Looks up a localized string similar to ¡Esta apunto de borrar TODOS los datos de la base de datos e ha empezar de nuevo!. Para continuar debes introducir la contraseña de administrador de XXX..
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.settingsStr">
+	<summary>
+  Looks up a localized string similar to Ajustes.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.startStr">
+	<summary>
+  Looks up a localized string similar to Iniciar la app.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.userStr">
+	<summary>
+  Looks up a localized string similar to Usuario:.
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.wrgDBStr">
+	<summary>
+  Looks up a localized string similar to Se ha producido un error al realizar las operaciones, por favor comprueba los datos introducidos..
+</summary>
+</member><member name="P:MySQL_APP.My.Resources.strings_es.wrgPass">
+	<summary>
+  Looks up a localized string similar to Contraseña incorrecta.
+</summary>
+</member><member name="T:MySQL_APP.My.Resources.strings_es">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

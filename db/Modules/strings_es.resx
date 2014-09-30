@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="accDetStr" xml:space="preserve">
+    <value>Account Details:</value>
+  </data>
+  <data name="actStr" xml:space="preserve">
+    <value>Actual Values</value>
+  </data>
+  <data name="addressStr" xml:space="preserve">
+    <value>Address:</value>
+  </data>
+  <data name="addUsers" xml:space="preserve">
+    <value>Add Users</value>
+  </data>
+  <data name="btnBackStr" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="btnChanStr" xml:space="preserve">
+    <value>Change</value>
+  </data>
+  <data name="btnClose" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="btnLogInStr" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="btnModPro" xml:space="preserve">
+    <value>Modify profile</value>
+  </data>
+  <data name="btnSaveChanStr" xml:space="preserve">
+    <value>Save changes</value>
+  </data>
+  <data name="btnSaveStr" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="btnSelImg" xml:space="preserve">
+    <value>Select Image:</value>
+  </data>
+  <data name="btnSubChgStr" xml:space="preserve">
+    <value>Submit Changes</value>
+  </data>
+  <data name="chgPass" xml:space="preserve">
+    <value>Change Password</value>
+  </data>
+  <data name="chgPassFormStr" xml:space="preserve">
+    <value>Change password</value>
+  </data>
+  <data name="chgPassStr" xml:space="preserve">
+    <value>You need to set a new password for this account</value>
+  </data>
+  <data name="cityStr" xml:space="preserve">
+    <value>City:</value>
+  </data>
+  <data name="contInfStr" xml:space="preserve">
+    <value>Contact Information</value>
+  </data>
+  <data name="counStr" xml:space="preserve">
+    <value>Country:</value>
+  </data>
+  <data name="currPassStr" xml:space="preserve">
+    <value>Current password</value>
+  </data>
+  <data name="dateOBStr" xml:space="preserve">
+    <value>Date of Birth:</value>
+  </data>
+  <data name="dbChkBoxStr" xml:space="preserve">
+    <value>Show advanced options</value>
+  </data>
+  <data name="dbPassStr" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="dbSettStr" xml:space="preserve">
+    <value>Database Settings</value>
+  </data>
+  <data name="dbStatusStr" xml:space="preserve">
+    <value>Estado de la con. a la BBDD</value>
+  </data>
+  <data name="dbStr" xml:space="preserve">
+    <value>Database:</value>
+  </data>
+  <data name="dbUserStr" xml:space="preserve">
+    <value>Database user:</value>
+  </data>
+  <data name="defUserPic" xml:space="preserve">
+    <value>You can't change the default user profile picture</value>
+  </data>
+  <data name="defUserPro" xml:space="preserve">
+    <value>You can't change the default user profile</value>
+  </data>
+  <data name="diagFilter" xml:space="preserve">
+    <value>Image files (*.jpg, *.jpeg, *.jpe, *.jfif, *.png)|*.jpg; *.jpeg; *.jpe; *.jfif; *.png|All files (*.*) | *.*</value>
+  </data>
+  <data name="diagTitle" xml:space="preserve">
+    <value>Select Image</value>
+  </data>
+  <data name="exitStr" xml:space="preserve">
+    <value>Salir</value>
+  </data>
+  <data name="idColStr" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="imgSuccStr" xml:space="preserve">
+    <value>Image saved successfully</value>
+  </data>
+  <data name="instanceNameStr" xml:space="preserve">
+    <value>Instance name:</value>
+  </data>
+  <data name="joinStr" xml:space="preserve">
+    <value>Joined on:</value>
+  </data>
+  <data name="logFormStr" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="loginNameColStr" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="logOut" xml:space="preserve">
+    <value>Log out</value>
+  </data>
+  <data name="lvl1Str" xml:space="preserve">
+    <value>Level 1 - Read Only</value>
+  </data>
+  <data name="lvl2Str" xml:space="preserve">
+    <value>Level 2 - Write</value>
+  </data>
+  <data name="lvl3Str" xml:space="preserve">
+    <value>Level 3 - Add Tables</value>
+  </data>
+  <data name="lvl4Str" xml:space="preserve">
+    <value>Level 4 - User Management</value>
+  </data>
+  <data name="lvl5Str" xml:space="preserve">
+    <value>Level 5 - Administrator</value>
+  </data>
+  <data name="lvlColStr" xml:space="preserve">
+    <value>Level</value>
+  </data>
+  <data name="lvlGrpStr" xml:space="preserve">
+    <value>Levels</value>
+  </data>
+  <data name="manUsers" xml:space="preserve">
+    <value>Manage Users</value>
+  </data>
+  <data name="menuFormStr" xml:space="preserve">
+    <value>Menu</value>
+  </data>
+  <data name="mobPhoneStr" xml:space="preserve">
+    <value>Mobile:</value>
+  </data>
+  <data name="modProFormStr" xml:space="preserve">
+    <value>Modify Profile</value>
+  </data>
+  <data name="nameIPstr" xml:space="preserve">
+    <value>Computer name or IP:</value>
+  </data>
+  <data name="nameStr" xml:space="preserve">
+    <value>Name:</value>
+  </data>
+  <data name="newPassStr" xml:space="preserve">
+    <value>New password</value>
+  </data>
+  <data name="newStr" xml:space="preserve">
+    <value>New Values</value>
+  </data>
+  <data name="pass" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="passColStr" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="passLenghStr" xml:space="preserve">
+    <value>The password must have between 8 and 32 characters</value>
+  </data>
+  <data name="passRecQStr" xml:space="preserve">
+    <value>Password Recovery Questions</value>
+  </data>
+  <data name="passSuccStr" xml:space="preserve">
+    <value>Password successfully changed</value>
+  </data>
+  <data name="phoneStr" xml:space="preserve">
+    <value>Phone:</value>
+  </data>
+  <data name="pro" xml:space="preserve">
+    <value>Profile</value>
+  </data>
+  <data name="proFormStr" xml:space="preserve">
+    <value>Profile</value>
+  </data>
+  <data name="proImgFormStr" xml:space="preserve">
+    <value>Change profile image</value>
+  </data>
+  <data name="reNewPassStr" xml:space="preserve">
+    <value>Re-type new password</value>
+  </data>
+  <data name="secAStr" xml:space="preserve">
+    <value>Secret Awnser:</value>
+  </data>
+  <data name="secQStr" xml:space="preserve">
+    <value>Secret Question:</value>
+  </data>
+  <data name="selImgStr" xml:space="preserve">
+    <value>Select and image first</value>
+  </data>
+  <data name="settStr" xml:space="preserve">
+    <value>Ajustes</value>
+  </data>
+  <data name="showContInfStr" xml:space="preserve">
+    <value>Show Contact Information</value>
+  </data>
+  <data name="showPassChkStr" xml:space="preserve">
+    <value>Show passwords</value>
+  </data>
+  <data name="showPassStr" xml:space="preserve">
+    <value>Show password recovery options</value>
+  </data>
+  <data name="showUserLvlStr" xml:space="preserve">
+    <value>Show user level</value>
+  </data>
+  <data name="startStr" xml:space="preserve">
+    <value>Iniciar la app</value>
+  </data>
+  <data name="surnameColStr" xml:space="preserve">
+    <value>Surname</value>
+  </data>
+  <data name="surnameStr" xml:space="preserve">
+    <value>Surname:</value>
+  </data>
+  <data name="userManFormStr" xml:space="preserve">
+    <value>User Management</value>
+  </data>
+  <data name="userName" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="userNameColStr" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="wrgPass" xml:space="preserve">
+    <value>Wrong username or password</value>
+  </data>
+  <data name="wrgPassStr" xml:space="preserve">
+    <value>Wrong password</value>
+  </data>
+</root>

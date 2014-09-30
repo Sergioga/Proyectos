@@ -1,0 +1,11 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\InventoryDB.accdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.inventarioForm.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.exe.config

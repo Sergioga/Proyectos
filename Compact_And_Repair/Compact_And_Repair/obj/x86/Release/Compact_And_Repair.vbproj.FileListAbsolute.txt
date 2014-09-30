@@ -1,0 +1,16 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\bin\x86\Release\Compact_And_Repair.exe.config
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\obj\x86\Release\Interop.ADODB.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\obj\x86\Release\Interop.JRO.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\obj\x86\Release\Compact_And_Repair.vbproj.ResolveComReference.cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\bin\x86\Release\Compact_And_Repair.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\bin\x86\Release\Compact_And_Repair.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\bin\x86\Release\Compact_And_Repair.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\bin\x86\Release\Interop.ADODB.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\bin\x86\Release\Interop.JRO.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\obj\x86\Release\Compact_And_Repair.form.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\obj\x86\Release\Compact_And_Repair.mensaje.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\obj\x86\Release\Compact_And_Repair.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\obj\x86\Release\Compact_And_Repair.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\obj\x86\Release\Compact_And_Repair.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\obj\x86\Release\Compact_And_Repair.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Compact_And_Repair\Compact_And_Repair\obj\x86\Release\Compact_And_Repair.pdb

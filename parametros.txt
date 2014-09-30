@@ -1,0 +1,10 @@
+If My.Application.CommandLineArgs.Count <= 0 Then
+                MsgBox("hola 0 para")
+                Me.MainForm = Global.WinvetRemoteBackup.Form1
+            ElseIf My.Application.CommandLineArgs(0) = "auto" Then
+                MsgBox("hola modo auto")
+                Me.MainForm = Global.WinvetRemoteBackup.form2
+            Else
+                MsgBox("hola 0 para")
+                Me.MainForm = Global.WinvetRemoteBackup.Form1
+            End If

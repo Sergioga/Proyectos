@@ -1,0 +1,10 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\bin\Debug\WinvetRemoteBackup.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\bin\Debug\WinvetRemoteBackup.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\bin\Debug\WinvetRemoteBackup.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\Debug\WinvetRemoteBackup.form2.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\Debug\WinvetRemoteBackup.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\Debug\WinvetRemoteBackup.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\Debug\WinvetRemoteBackup.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\Debug\WinvetRemoteBackup.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\Debug\WinvetRemoteBackup.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\Debug\WinvetRemoteBackup.configForm.resources

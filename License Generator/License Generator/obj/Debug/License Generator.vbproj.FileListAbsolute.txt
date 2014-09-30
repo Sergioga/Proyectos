@@ -1,0 +1,13 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\bin\Debug\License Generator.exe.manifest
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\bin\Debug\License Generator.application
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\bin\Debug\License Generator.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\bin\Debug\License Generator.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\bin\Debug\License Generator.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\obj\Debug\Generator.Form1.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\obj\Debug\Generator.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\obj\Debug\License Generator.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\obj\Debug\License Generator.exe.manifest
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\obj\Debug\License Generator.application
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\obj\Debug\License Generator.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\obj\Debug\License Generator.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\License Generator\License Generator\obj\Debug\License Generator.pdb

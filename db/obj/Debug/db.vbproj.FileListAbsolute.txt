@@ -1,0 +1,14 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\bin\Debug\db.exe.config
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\bin\Debug\db.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\obj\Debug\db.afterLogin.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\obj\Debug\db.modProfile.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\obj\Debug\db.password_change.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\obj\Debug\db.loginForm.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\obj\Debug\db.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\obj\Debug\db.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\obj\Debug\db.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\obj\Debug\db.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\bin\Debug\db.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\bin\Debug\db.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\obj\Debug\db.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\db\obj\Debug\db.vbprojResolveAssemblyReference.cache

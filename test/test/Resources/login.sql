@@ -1,0 +1,8 @@
+﻿CREATE LOGIN appuser WITH PASSWORD = 'appuser1234';
+GO
+CREATE USER appuser FOR LOGIN appuser;
+GO
+GRANT ALTER TO appuser;
+GO
+GRANT CONTROL TO appuser;
+GO

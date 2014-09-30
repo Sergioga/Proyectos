@@ -1,0 +1,13 @@
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\bin\Debug\a.exe
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\bin\Debug\a.pdb
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\bin\Debug\a.xml
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\bin\Debug\EDAPP.dll
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\bin\Debug\EDAPP.pdb
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\bin\Debug\EDAPP.xml
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\obj\Debug\a.vbprojResolveAssemblyReference.cache
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\obj\Debug\a.Form1.resources
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\obj\Debug\a.Resources.resources
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\obj\Debug\a.vbproj.GenerateResource.Cache
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\obj\Debug\a.exe
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\obj\Debug\a.xml
+C:\Users\Mephist\AppData\Local\Temporary Projects\a\obj\Debug\a.pdb

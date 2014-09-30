@@ -1,0 +1,8 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\EDAPP DLL\EDAPP DLL\bin\Debug\EDAPP DLL.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\EDAPP DLL\EDAPP DLL\bin\Debug\EDAPP DLL.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\EDAPP DLL\EDAPP DLL\bin\Debug\EDAPP DLL.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\EDAPP DLL\EDAPP DLL\obj\Debug\EDAPP.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\EDAPP DLL\EDAPP DLL\obj\Debug\EDAPP DLL.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\EDAPP DLL\EDAPP DLL\obj\Debug\EDAPP DLL.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\EDAPP DLL\EDAPP DLL\obj\Debug\EDAPP DLL.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\EDAPP DLL\EDAPP DLL\obj\Debug\EDAPP DLL.pdb

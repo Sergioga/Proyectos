@@ -1,0 +1,12 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetFirmas\WinvetFirmas\bin\Debug\WinvetFirmas.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetFirmas\WinvetFirmas\bin\Debug\WinvetFirmas.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetFirmas\WinvetFirmas\bin\Debug\WinvetFirmas.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetFirmas\WinvetFirmas\obj\Debug\WinvetFirmas.firmarForm.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetFirmas\WinvetFirmas\obj\Debug\WinvetFirmas.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetFirmas\WinvetFirmas\obj\Debug\WinvetFirmas.visorForm.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetFirmas\WinvetFirmas\obj\Debug\WinvetFirmas.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetFirmas\WinvetFirmas\obj\Debug\WinvetFirmas.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetFirmas\WinvetFirmas\obj\Debug\WinvetFirmas.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetFirmas\WinvetFirmas\obj\Debug\WinvetFirmas.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetFirmas\WinvetFirmas\obj\Debug\WinvetFirmas.menu.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetFirmas\WinvetFirmas\obj\Debug\WinvetFirmas.vbprojResolveAssemblyReference.cache

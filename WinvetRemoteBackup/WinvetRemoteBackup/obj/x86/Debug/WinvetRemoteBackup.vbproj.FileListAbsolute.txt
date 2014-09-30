@@ -1,0 +1,15 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\bin\x86\Debug\WinvetRemoteBackup.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\bin\x86\Debug\WinvetRemoteBackup.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\bin\x86\Debug\WinvetRemoteBackup.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\bin\x86\Debug\Interop.ADODB.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\bin\x86\Debug\Interop.JRO.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\x86\Debug\Interop.JRO.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\x86\Debug\WinvetRemoteBackup.vbproj.ResolveComReference.cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\x86\Debug\WinvetRemoteBackup.configForm.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\x86\Debug\WinvetRemoteBackup.form2.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\x86\Debug\WinvetRemoteBackup.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\x86\Debug\WinvetRemoteBackup.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\x86\Debug\WinvetRemoteBackup.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\x86\Debug\WinvetRemoteBackup.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\WinvetRemoteBackup\WinvetRemoteBackup\obj\x86\Debug\WinvetRemoteBackup.pdb

@@ -1,0 +1,9 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\email sender\email sender\bin\Debug\email sender.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\email sender\email sender\bin\Debug\email sender.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\email sender\email sender\bin\Debug\email sender.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\email sender\email sender\obj\Debug\email_sender.Form1.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\email sender\email sender\obj\Debug\email_sender.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\email sender\email sender\obj\Debug\email sender.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\email sender\email sender\obj\Debug\email sender.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\email sender\email sender\obj\Debug\email sender.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\email sender\email sender\obj\Debug\email sender.pdb

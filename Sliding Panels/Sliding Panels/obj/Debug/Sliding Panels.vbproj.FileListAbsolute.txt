@@ -1,0 +1,9 @@
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Sliding Panels\Sliding Panels\bin\Debug\Sliding Panels.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Sliding Panels\Sliding Panels\bin\Debug\Sliding Panels.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Sliding Panels\Sliding Panels\bin\Debug\Sliding Panels.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Sliding Panels\Sliding Panels\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Sliding Panels\Sliding Panels\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Sliding Panels\Sliding Panels\obj\Debug\Sliding Panels.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Sliding Panels\Sliding Panels\obj\Debug\Sliding Panels.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Sliding Panels\Sliding Panels\obj\Debug\Sliding Panels.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\Sliding Panels\Sliding Panels\obj\Debug\Sliding Panels.pdb

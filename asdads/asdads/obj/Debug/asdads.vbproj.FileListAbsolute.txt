@@ -1,0 +1,13 @@
+C:\Users\Mephist\AppData\Local\Temporary Projects\asdads\bin\Debug\asdads.exe.config
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\asdads\asdads\bin\Debug\asdads.exe.config
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\asdads\asdads\bin\Debug\asdads.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\asdads\asdads\bin\Debug\asdads.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\asdads\asdads\bin\Debug\asdads.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\asdads\asdads\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\asdads\asdads\obj\Debug\asdads.vbprojResolveAssemblyReference.cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\asdads\asdads\obj\Debug\asdads.Form1.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\asdads\asdads\obj\Debug\asdads.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\asdads\asdads\obj\Debug\asdads.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\asdads\asdads\obj\Debug\asdads.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\asdads\asdads\obj\Debug\asdads.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\asdads\asdads\obj\Debug\asdads.pdb

@@ -1,0 +1,20 @@
+C:\Users\Mephist\AppData\Local\Temporary Projects\MySQL APP\bin\Debug\MySQL APP.exe.config
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\bin\Debug\MySQL APP.exe.config
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\bin\Debug\MySQL APP.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\bin\Debug\MySQL APP.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\bin\Debug\MySQL APP.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\obj\Debug\MySQL_APP.Form1.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\obj\Debug\MySQL_APP.Resources.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\obj\Debug\MySQL APP.vbproj.GenerateResource.Cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\obj\Debug\MySQL APP.exe
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\obj\Debug\MySQL APP.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\obj\Debug\MySQL APP.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\obj\Debug\MySQL_APP.strings_en.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\obj\Debug\MySQL_APP.strings_es.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\obj\Debug\MySQL_APP.mysqlSettings.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\obj\Debug\MySQL_APP.secureCheck.resources
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\bin\Debug\EDAPP.dll
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\bin\Debug\EDAPP.pdb
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\bin\Debug\EDAPP.xml
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\obj\Debug\MySQL APP.vbprojResolveAssemblyReference.cache
+C:\Users\Mephist\Documents\Visual Studio 2013\Projects\MySQL APP\MySQL APP\obj\Debug\MySQL_APP.licenseFrom.resources
